@@ -1,0 +1,5 @@
+.DS_Store
+
+# Large local data / database artifacts
+data/nyc_taxi_data.csv
+taxi_analysis.duckdb

@@ -1,0 +1,7 @@
+duckdb
+folium
+pandas
+numpy
+geopandas
+ipykernel
+jupyterlab
